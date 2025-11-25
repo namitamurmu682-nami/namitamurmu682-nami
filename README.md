@@ -28,8 +28,8 @@
 ## 👨‍💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ed8b00" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599c" />
